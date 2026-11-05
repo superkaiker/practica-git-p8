@@ -22,3 +22,15 @@ Aprender a trabajar con Git y GitHub.
 
 \- Resolución de conflictos
 
+\## Tecnologías utilizadas
+
+
+
+\- Git
+
+\- GitHub
+
+\- HTML
+
+\- CSS
+
